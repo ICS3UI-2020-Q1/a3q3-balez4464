@@ -15,7 +15,7 @@ public class Main {
     Scanner input = new Scanner(System.in);
 
     //Asks user to input their grade
-    System.out.println("Please enter a letter grade:");
+    System.out.println("Please enter a letter grade");
     String usersGrade = input.nextLine();
 
     //switch case system to determine percentage
